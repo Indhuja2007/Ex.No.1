@@ -63,7 +63,11 @@ Step 7: Finalize and Export
 # Prompt 1 – Fundamentals of Generative AI
 
 ```
+
+
 Explain the foundational concepts of Generative Artificial Intelligence (Generative AI) in detail. Cover its definition, working principles, history, types of generative models, advantages, limitations, and real-world applications. Use simple language, suitable examples, and a structured format for an engineering college student.
+
+
 ```
 
 # Output Using ChatGPT
